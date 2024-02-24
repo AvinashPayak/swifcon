@@ -18,9 +18,8 @@
     "next-auth": "^4.24.6",
     "react": "^18",
     "react-dom": "^18",
-    "tailwind-merge": "^2.2.1",
-    "class-variance-authority": "^0.7.0",
-    "lucide-react": "^0.338.0"
+    "react-hot-toast": "^2.4.1",
+    "tailwind-merge": "^2.2.1"
   },
   "devDependencies": {
     "@types/node": "^20",
